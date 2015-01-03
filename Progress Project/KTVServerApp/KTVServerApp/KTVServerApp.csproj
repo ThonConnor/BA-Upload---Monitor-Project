@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{027A1B93-8050-4CA9-A764-3FBA14B28B76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KTVServerApp</RootNamespace>
+    <AssemblyName>Big_Apple</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClientLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ClientLib\bin\Debug\ClientLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LinqToExcel">
+      <HintPath>..\..\..\..\LinqToExcel\LinqToExcel.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\LinqToExcel\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NetworkCommsDotNetComplete, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NetworkCommsDotNetComplete.dll</HintPath>
+    </Reference>
+    <Reference Include="NetworkLib">
+      <HintPath>..\..\..\NetworkLib\NetworkLib\bin\Debug\NetworkLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion">
+      <HintPath>..\..\..\..\LinqToExcel\Remotion.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Data.Linq">
+      <HintPath>..\..\..\..\LinqToExcel\Remotion.Data.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Interfaces">
+      <HintPath>..\..\..\..\LinqToExcel\Remotion.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\Album.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Album.Designer.cs">
+      <DependentUpon>Album.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UnUsed\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UnUsed\Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Country.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Country.Designer.cs">
+      <DependentUpon>Country.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UnUsed\frmUploadSong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UnUsed\frmUploadSong.Designer.cs">
+      <DependentUpon>frmUploadSong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\RegisterDbInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\RegisterDbInfo.Designer.cs">
+      <DependentUpon>RegisterDbInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Command\AlbumCommand.cs" />
+    <Compile Include="Script\Command\ControlForm.cs" />
+    <Compile Include="Script\Command\CategoryCommand.cs" />
+    <Compile Include="Script\Command\ProductionCommand.cs" />
+    <Compile Include="Script\Command\ExitCommand.cs" />
+    <Compile Include="Script\Command\IControl.cs" />
+    <Compile Include="Script\Command\MenuCommand.cs" />
+    <Compile Include="Script\Command\CountryCommand.cs" />
+    <Compile Include="Script\Command\MonitoringCommand.cs" />
+    <Compile Include="Script\Command\SingerCommand.cs" />
+    <Compile Include="Script\Command\UploadExcelCommand.cs" />
+    <Compile Include="Script\Command\UploadSongCommand.cs" />
+    <Compile Include="Script\Data\clsAlbum.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Script\Encryption\MyEncrytion.cs" />
+    <Compile Include="Script\Encryption\MyParam.cs" />
+    <Compile Include="RegisterLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterLicense.Designer.cs">
+      <DependentUpon>RegisterLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Plugin\DataGridViewProgressColumn.cs" />
+    <Compile Include="Form\Production.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Production.Designer.cs">
+      <DependentUpon>Production.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Data\clsClient.cs" />
+    <Compile Include="Script\Data\clsCountry.cs" />
+    <Compile Include="Script\Data\clsNetWork.cs" />
+    <Compile Include="Script\Data\clsProduction.cs" />
+    <Compile Include="Script\Data\clsServer.cs" />
+    <Compile Include="Script\Data\clsSinger.cs" />
+    <Compile Include="Form\frmMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMonitor.Designer.cs">
+      <DependentUpon>frmMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Script\Data\clsSongCategory.cs" />
+    <Compile Include="Script\Monitoring.cs" />
+    <Compile Include="Form\Singer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Singer.Designer.cs">
+      <DependentUpon>Singer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UnUsed\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UnUsed\Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UnUsed\UploadSong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UnUsed\UploadSong.Designer.cs">
+      <DependentUpon>UploadSong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UploadSongV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UploadSongV2.Designer.cs">
+      <DependentUpon>UploadSongV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UnUsed\UploadExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UnUsed\UploadExcel.Designer.cs">
+      <DependentUpon>UploadExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Sql\SqlControl.cs" />
+    <Compile Include="Script\Synchronize\DataLoadServer.cs" />
+    <Compile Include="Script\Synchronize\DataSongServer.cs" />
+    <Compile Include="Form\SongDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SongDetail.Designer.cs">
+      <DependentUpon>SongDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SongModified.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SongModified.Designer.cs">
+      <DependentUpon>SongModified.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script\Synchronize\KtvNetworkService.cs" />
+    <Compile Include="TestClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestClient.Designer.cs">
+      <DependentUpon>TestClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testing.Designer.cs">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestServer.Designer.cs">
+      <DependentUpon>TestServer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Album.resx">
+      <DependentUpon>Album.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UnUsed\Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Country.resx">
+      <DependentUpon>Country.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMonitor.resx">
+      <DependentUpon>frmMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UnUsed\frmUploadSong.resx">
+      <DependentUpon>frmUploadSong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Production.resx">
+      <DependentUpon>Production.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form\Singer.resx">
+      <DependentUpon>Singer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UnUsed\Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UnUsed\UploadSong.resx">
+      <DependentUpon>UploadSong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UploadSongV2.resx">
+      <DependentUpon>UploadSongV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UnUsed\UploadExcel.resx">
+      <DependentUpon>UploadExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\RegisterDbInfo.resx">
+      <DependentUpon>RegisterDbInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SongDetail.resx">
+      <DependentUpon>SongDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SongModified.resx">
+      <DependentUpon>SongModified.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterLicense.resx">
+      <DependentUpon>RegisterLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestClient.resx">
+      <DependentUpon>TestClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testing.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestServer.resx">
+      <DependentUpon>TestServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <Content Include="Resources\Activity Monitor.png" />
+    <None Include="Resources\Album_32.png" />
+    <None Include="Resources\Album_128.png" />
+    <None Include="Resources\bonfire-pointblank-2912 copy.png" />
+    <Content Include="Resources\bonfire-pointblank-2912.jpg" />
+    <None Include="Resources\Category_32.png" />
+    <None Include="Resources\Category_128.png" />
+    <None Include="Resources\Delete_32.png" />
+    <None Include="Resources\Delete_128.png" />
+    <Content Include="Resources\Delete_Icon.png" />
+    <None Include="Resources\depositphotos_13832280-Check-List-Icon.jpg" />
+    <Content Include="Resources\edit-notes.png" />
+    <None Include="Resources\Edit_32.png" />
+    <None Include="Resources\Edit_128.png" />
+    <Content Include="Resources\exit.png" />
+    <None Include="Resources\folder-icon-512x512.png" />
+    <Content Include="Resources\ip_icon_04_Info.png" />
+    <None Include="Resources\Monitor_32.png" />
+    <None Include="Resources\Monitor_128.png" />
+    <None Include="Resources\Logo.bmp" />
+    <None Include="Resources\Logo.png" />
+    <None Include="Resources\Music Music.jpg" />
+    <None Include="Resources\music-neon-rainbow-desktop-background-1280x800.jpg" />
+    <Content Include="Resources\music_icon.png" />
+    <None Include="Resources\Production_32.png" />
+    <None Include="Resources\Production_128.png" />
+    <None Include="Resources\Quit_32.png" />
+    <None Include="Resources\Quit_128.png" />
+    <Content Include="Resources\Save-icon.png" />
+    <None Include="Resources\Save_32.png" />
+    <None Include="Resources\Save_128.png" />
+    <Content Include="Resources\search-icon-512.png" />
+    <None Include="Resources\Search_32.png" />
+    <None Include="Resources\Search_128.png" />
+    <Content Include="Resources\singer-icon.gif" />
+    <None Include="Resources\Singer_32.png" />
+    <None Include="Resources\Singer_128.png" />
+    <None Include="Resources\Song_32.png" />
+    <None Include="Resources\Song_128.png" />
+    <None Include="Resources\System-Taskbar-Start-Menu-icon.png" />
+    <Content Include="Resources\telephone-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Script\Network\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

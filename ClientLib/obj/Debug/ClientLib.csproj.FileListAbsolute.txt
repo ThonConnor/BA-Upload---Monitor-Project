@@ -1,0 +1,10 @@
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\ClientLib.dll
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\ClientLib.pdb
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\NetworkCommsDotNetComplete.dll
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\NetworkLib.dll
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\NetworkCommsDotNetComplete.pdb
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\NetworkCommsDotNetComplete.xml
+T:\ProjectKTV\SETHON\ClientLib\bin\Debug\NetworkLib.pdb
+T:\ProjectKTV\SETHON\ClientLib\obj\Debug\ClientLib.dll
+T:\ProjectKTV\SETHON\ClientLib\obj\Debug\ClientLib.pdb
+T:\ProjectKTV\SETHON\ClientLib\obj\Debug\ClientLib.csprojResolveAssemblyReference.cache

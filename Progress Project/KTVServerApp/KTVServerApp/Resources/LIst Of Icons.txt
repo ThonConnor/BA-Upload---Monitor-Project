@@ -1,0 +1,11 @@
+- Song
+- Singer
+- Album
+- Category
+- Production
+- Monitor
+- Save
+- Quit
+- Delete
+- Edit
+- Search

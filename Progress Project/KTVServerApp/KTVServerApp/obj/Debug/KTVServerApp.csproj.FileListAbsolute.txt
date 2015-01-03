@@ -1,0 +1,195 @@
+T:\ProjectKTV\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\ProjectKTV\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\ProjectKTV\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 01-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 06-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSongV2.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 10-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.ResolveComReference.cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSongV2.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\LinqToExcel.dll
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\log4net.dll
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.Data.Linq.dll
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.dll
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.Interfaces.dll
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\LinqToExcel.xml
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.ResolveComReference.cache
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\LinqToExcel.dll
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\log4net.dll
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.Data.Linq.dll
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.dll
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\Remotion.Interfaces.dll
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\bin\Debug\LinqToExcel.xml
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSongV2.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadExcel.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadExcel.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ClientRequest.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ServerRequest.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ClientRequest.resources
+E:\UCHIHA BOX\Dropbox\Top Secret Files\SETHON\KTV Update 22-04-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ServerRequest.resources
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.ResolveComReference.cache
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\Thon\DropBox\Dropbox\Top Secret Files\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.exe
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\bin\Debug\KTVServerApp.pdb
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.ResolveComReference.cache
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ClientRequest.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSongV2.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.ServerRequest.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadExcel.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.RegisterDbInfo.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.exe
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.pdb
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.SongDetail.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.SongModified.resources
+T:\ProjectKTV\SETHON\KTV Update 03-05-2014\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Loading.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\Big_Apple.exe
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\Big_Apple.pdb
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.ResolveComReference.cache
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Loading.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Album.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Category.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Client.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Country.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmMonitor.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.frmUploadSong.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.MainForm.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Menu.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Production.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Properties.Resources.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Singer.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Test.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSong.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadSongV2.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.UploadExcel.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.RegisterDbInfo.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.SongDetail.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.SongModified.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.RegisterLicense.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.TestClient.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.TestServer.resources
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csproj.GenerateResource.Cache
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\Big_Apple.exe
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\Big_Apple.pdb
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.csprojResolveAssemblyReference.cache
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\NetworkLib.dll
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\NetworkLib.pdb
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\ClientLib.dll
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\bin\Debug\ClientLib.pdb
+T:\ProjectKTV\SETHON\Progress Project\KTVServerApp\KTVServerApp\obj\Debug\KTVServerApp.Testing.resources

@@ -1,0 +1,8 @@
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\bin\Debug\NetworkLib.dll
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\bin\Debug\NetworkLib.pdb
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\bin\Debug\NetworkCommsDotNetComplete.dll
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\bin\Debug\NetworkCommsDotNetComplete.pdb
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\bin\Debug\NetworkCommsDotNetComplete.xml
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\obj\Debug\NetworkLib.dll
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\obj\Debug\NetworkLib.pdb
+T:\ProjectKTV\SETHON\NetworkLib\NetworkLib\obj\Debug\NetworkLib.csprojResolveAssemblyReference.cache

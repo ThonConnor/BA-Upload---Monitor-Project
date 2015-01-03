@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTVServerApp", "KTVServerApp\KTVServerApp.csproj", "{027A1B93-8050-4CA9-A764-3FBA14B28B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkLib", "..\..\NetworkLib\NetworkLib\NetworkLib.csproj", "{24CA142D-0A57-437F-A4B9-6D6065E782CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLib", "..\..\ClientLib\ClientLib.csproj", "{0EC93091-76CA-4905-97B3-D00325723FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027A1B93-8050-4CA9-A764-3FBA14B28B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027A1B93-8050-4CA9-A764-3FBA14B28B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027A1B93-8050-4CA9-A764-3FBA14B28B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027A1B93-8050-4CA9-A764-3FBA14B28B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CA142D-0A57-437F-A4B9-6D6065E782CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CA142D-0A57-437F-A4B9-6D6065E782CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CA142D-0A57-437F-A4B9-6D6065E782CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CA142D-0A57-437F-A4B9-6D6065E782CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC93091-76CA-4905-97B3-D00325723FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC93091-76CA-4905-97B3-D00325723FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC93091-76CA-4905-97B3-D00325723FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC93091-76CA-4905-97B3-D00325723FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
